@@ -1,0 +1,200 @@
+{:blocks (
+{:block/created-at 1729181272135
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 0
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 0 0.5] [1.5 2.5 0.5] [15.5 16.5 0.5] [24.5 24 0.5] [40 37 0.5] [59.5 52 0.5] [79.5 67.5 0.5] [110 91 0.5] [126 104 0.5] [134.5 111.5 0.5] [145 123.5 0.5] [150.5 129.5 0.5] [154 133 0.5] [159 140.5 0.5] [162.5 147.5 0.5] [163.5 148 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "f5c73070-8ca1-11ef-ba25-1bc9374620ea"
+:noFill true
+:point [1396 1281.5]
+:parentId "671135e1-fba0-4d94-afd3-b4d2ced18efd"
+:nonce 1729181271305
+:isComplete true}}
+:block/updated-at 1729181272135} 
+{:block/created-at 1729181291529
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 1
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[0 183.5 0.5] [2 182.5 0.5] [11.5 179 0.5] [17.5 177 0.5] [57 163.5 0.5] [121 139.5 0.5] [165 122 0.5] [253.5 85.5 0.5] [292.5 69 0.5] [366 36 0.5] [384.5 24.5 0.5] [402 10.5 0.5] [408.5 3 0.5] [410 0 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "f611f510-8ca1-11ef-ba25-1bc9374620ea"
+:noFill true
+:point [1376 1230]
+:parentId "671135e1-fba0-4d94-afd3-b4d2ced18efd"
+:nonce 1729181271792
+:isComplete true}}
+:block/updated-at 1729181291529} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 2
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[101.5 15 0.5] [41 5 0.5] [11 1 0.5] [0.5 0 0.5] [0 0 0.5] [0.5 0.5 0.5] [3.5 3.5 0.5] [16.5 10.5 0.5] [49 23 0.5] [68.5 28.5 0.5] [113.5 37 0.5] [150 42.5 0.5] [181 45.5 0.5] [239.5 48.5 0.5] [306 53.5 0.5] [326 55 0.5] [373 56.5 0.5] [384 57.5 0.5] [396 58.5 0.5] [404 58.5 0.5] [407 58.5 0.5] [406 59.5 0.5] [397.5 61 0.5] [381 65.5 0.5] [371 69.5 0.5] [365.5 72.5 0.5] [352 83 0.5] [345 93.5 0.5] [344.5 96 0.5] [344.5 99 0.5] [344.5 101 0.5] [345.5 103 0.5] [347.5 105.5 0.5] [349 106 0.5] [351 107.5 0.5] [358.5 108.5 0.5] [374.5 108.5 0.5] [388 107 0.5] [432.5 101 0.5] [453.5 96.5 0.5] [475.5 91 0.5] [551.5 69.5 0.5] [584.5 53.5 0.5] [592 48 0.5] [600.5 39.5 0.5] [605 32 0.5] [605 22 0.5] [604.5 19 0.5] [600.5 13 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "001b1460-8ca2-11ef-ba25-1bc9374620ea"
+:noFill true
+:point [1140 1398.5]
+:parentId "671135e1-fba0-4d94-afd3-b4d2ced18efd"
+:nonce 1729181288664
+:isComplete true}}
+:block/updated-at 1729181291530} 
+{:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 3
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[28.5 0 0.5] [14.5 17.5 0.5] [4 38 0.5] [0 54 0.5] [3 81 0.5] [11.5 94 0.5] [38.5 116.5 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0079d630-8ca2-11ef-ba25-1bc9374620ea"
+:noFill true
+:point [1236.5 1503]
+:parentId "671135e1-fba0-4d94-afd3-b4d2ced18efd"
+:nonce 1729181289243
+:isComplete true}}
+:block/updated-at 1729181291530} 
+{:block/created-at 1729181405856
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 4
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "pencil"
+:points [[856 175.5 0.5] [823 193 0.5] [773.5 225 0.5] [745.5 253 0.5] [738.5 263 0.5] [734.5 271.5 0.5] [734.5 273.5 0.5] [734 275.5 0.5] [734.5 277 0.5] [736 277 0.5] [744 276.5 0.5] [765 264 0.5] [781 253 0.5] [798.5 238.5 0.5] [833.5 198 0.5] [838.5 169 0.5] [837 152 0.5] [813 122.5 0.5] [794 110.5 0.5] [711.5 83 0.5] [664.5 77.5 0.5] [539.5 77 0.5] [481 87 0.5] [399 113 0.5] [378 125 0.5] [365.5 136 0.5] [363 141 0.5] [372.5 161.5 0.5] [430 171.5 0.5] [481.5 171.5 0.5] [616 157.5 0.5] [677.5 143.5 0.5] [753 121.5 0.5] [813.5 99 0.5] [852.5 82 0.5] [877.5 58.5 0.5] [878.5 51.5 0.5] [872.5 40.5 0.5] [861 32.5 0.5] [782 10.5 0.5] [705.5 2 0.5] [538 0 0.5] [432 4 0.5] [240 39.5 0.5] [169 63 0.5] [50.5 117 0.5] [17 143 0.5] [0 182 0.5] [0.5 191.5 0.5] [31.5 232.5 0.5] [69 257 0.5] [108 273.5 0.5] [172.5 290.5 0.5] [296 300.5 0.5] [448 296.5 0.5] [614 263 0.5] [741.5 223.5 0.5] [799.5 194 0.5] [852 158 0.5] [864 143.5 0.5] [868.5 135 0.5] [869.5 128 0.5] [867 123 0.5] [853 120.5 0.5] [809.5 131.5 0.5] [757 156 0.5] [655.5 215 0.5] [608.5 251.5 0.5] [572 284 0.5] [525.5 344.5 0.5] [517.5 370 0.5] [521.5 384 0.5] [531.5 391.5 0.5] [563 400.5 0.5] [604 402.5 0.5] [669 402.5 0.5] [807.5 377.5 0.5] [880.5 358.5 0.5] [959 334.5 0.5] [1063.5 290 0.5] [1085.5 274.5 0.5] [1092.5 265 0.5] [1092.5 263.5 0.5] [1086 260.5 0.5] [1005.5 259.5 0.5] [945 267.5 0.5] [873 278 0.5] [793 295.5 0.5] [733.5 311.5 0.5] [674 328 0.5] [633 343 0.5] [610 352 0.5] [593 359 0.5] [589.5 360.5 0.5]]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "012139c0-8ca2-11ef-ba25-1bc9374620ea"
+:noFill true
+:point [877 1356]
+:parentId "671135e1-fba0-4d94-afd3-b4d2ced18efd"
+:nonce 1729181290427
+:isComplete true}}
+:block/updated-at 1729181405856} 
+{:block/content ""
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "671135e1-fba0-4d94-afd3-b4d2ced18efd"}
+:block/parent 
+{:block/uuid #uuid "671135e1-fba0-4d94-afd3-b4d2ced18efd"}
+:block/properties 
+{}
+:block/uuid #uuid "671136aa-fc12-47bb-8deb-b5d601317a5a"} 
+{:block/created-at 1729181405857
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "B"
+:stroke ""
+:collapsed false
+:borderRadius 8
+:index 5
+:scale [1 1]
+:pageId "671136aa-fc12-47bb-8deb-b5d601317a5a"
+:scaleLevel "md"
+:fill ""
+:compact true
+:isAutoResizing true
+:type "logseq-portal"
+:size [400 41]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "2689f260-8ca2-11ef-ba25-1bc9374620ea"
+:noFill false
+:point [1376 1784]
+:parentId "671135e1-fba0-4d94-afd3-b4d2ced18efd"
+:collapsedHeight 0
+:nonce 1729181353117}}
+:block/updated-at 1729181405857} 
+{:block/content "Satz von den Restklassen. Es seien n ∈ N und k, ` ∈ Z.(a) Die Restklassen k + nZ und ` + nZ sind entweder gleich oder disjunkt.(b) Die folgenden Aussagen sind äquivalent:(i) k + nZ = ` + nZ.(ii) Es gibt ein a ∈ Z mit k − ` = na.(iii) Der Rest der Division von k durch n und der Rest der Division von ` durch n sind gleich.(c) Es gibt genau n verschiedene Restklassen modulo n:0 + nZ, 1 + nZ, . . . , (n − 1) + nZ."
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "671136aa-fc12-47bb-8deb-b5d601317a5a"}
+:block/parent 
+{:block/uuid #uuid "671135e1-fba0-4d94-afd3-b4d2ced18efd"}
+:block/uuid #uuid "671136b9-8650-4929-8086-25d31e69654f"} 
+{:block/created-at 1729181405857
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:stroke ""
+:index 6
+:scale [1 1]
+:scaleLevel "md"
+:fill ""
+:type "line"
+:strokeType "line"
+:strokeWidth 1
+:opacity 1
+:label ""
+:id "41c0ce02-8ca2-11ef-ba25-1bc9374620ea"
+:fontWeight 400
+:noFill true
+:point [2064 1768]
+:fontSize 20
+:handles 
+{:start 
+{:id "start"
+:canBind true
+:point [0 48]}
+:end 
+{:id "end"
+:canBind true
+:point [104 0]
+:bindingId nil}}
+:decorations 
+{:end "arrow"}
+:parentId "671135e1-fba0-4d94-afd3-b4d2ced18efd"
+:nonce 1729181398762
+:italic false}}
+:block/updated-at 1729181405857})
+:pages (
+{:block/uuid #uuid "671135e1-fba0-4d94-afd3-b4d2ced18efd"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "671135e1-fba0-4d94-afd3-b4d2ced18efd"
+:name "test"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("f5c73070-8ca1-11ef-ba25-1bc9374620ea" "f611f510-8ca1-11ef-ba25-1bc9374620ea" "001b1460-8ca2-11ef-ba25-1bc9374620ea" "0079d630-8ca2-11ef-ba25-1bc9374620ea" "012139c0-8ca2-11ef-ba25-1bc9374620ea" "2689f260-8ca2-11ef-ba25-1bc9374620ea" "41c0ce02-8ca2-11ef-ba25-1bc9374620ea")}}
+:block/journal? false
+:block/updated-at 1729181405856
+:block/created-at 1729181153771
+:block/type "whiteboard"
+:block/name "test"
+:block/original-name "test"})}

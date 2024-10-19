@@ -1,0 +1,15 @@
+- ((6711265c-8945-4757-9dda-f61fc6d1bcd6))
+- **Deﬁnition:** Eine ==Gruppe== ist ein Paar (G, ∗), bestehend aus einer Menge G und einer Verknüpfung∗ : G × G → G, (a, b) 7 → a ∗ b, das folgende Eigenschaften erfüllt:
+  id:: 671125ed-7a35-4fad-bc11-1d094e7dd9d6
+	- (G1) Assoziativgesetz : a ∗ (b ∗ c) = (a ∗ b) ∗ c für alle a, b, c ∈ G.
+	- (G2) Es gibt ein neutrales Element e ∈ G, sodass a ∗ e = e ∗ a = a für alle a ∈ G gilt.
+		- Ist (G, ∗) eine Gruppe, dann gibt es in G genau ein neutrales Element
+	- (G3) Zu jedem a ∈ G existiert ein inverses Element b ∈ G mit a ∗ b = b ∗ a = e.
+		- Das inverse Element von a ∈ G ist ebenfalls eindeutig
+- Eine Gruppe (G, ∗) heißt ==abelsch== (oder auch kommutativ ), wenn a ∗ b = b ∗ a (Kommutativgesetz) für alle a, b ∈ G gilt.
+- **Deﬁnition:** Es sei (G, ∗) eine Gruppe. Eine Teilmenge H ⊆ G nennt man ==Untergruppe== von G, wenn die folgenden drei Bedingungen erfüllt sind:
+	- (UG1) H ist nicht leer.
+	- (UG2) Für alle a, b ∈ H gilt a ∗ b ∈ H.
+	- (UG3) Für alle a ∈ H gilt a−1 ∈ H.
+	- Erfüllt eine Teilmenge H ⊆ G die Bedingung (UG2), dann sagt man, dass H abgeschlossen unter der Gruppenverknüpfung von G ist
+	-

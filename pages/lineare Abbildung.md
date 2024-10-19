@@ -1,0 +1,14 @@
+- ((67115cf8-6a2f-4e7b-951b-648150efd5d4))
+- **Deﬁnition:** Seien U und V zwei K-Vektorräume. Eine Abbildung ϕ : U → V nennt man ==K-linear==, wenn folgende Bedingungen erfüllt sind:
+	- (L1) ϕ(u1 + u2) = ϕ(u1) + ϕ(u2) für alle u1, u2 ∈ U
+	- (L2) ϕ(au) = aϕ(u) für alle a ∈ K und u ∈ U
+	- Beispiel
+	  collapsed:: true
+		- [[draws/2024-10-17-20-56-45.excalidraw]]
+- Der ==Kern== einer linearen Abbildung: Sei ϕ : U → V eine K-lineare Abbildung. Man nennt Ker(ϕ) = {u ∈ U | ϕ(u) = 0} den Kern von ϕ (engl.: kernel ).
+	- Der Kern einer linearen Abbildung ist ein Unterraum.
+	- Die Abbildung ϕ ist genau dann injektiv, wenn Ker (ϕ) = {0} gilt.
+	- Der Unterraum Ker(A) wird manchmal auch ==Nullraum== der Matrix A genannt
+- **Deﬁnition:** Eine bijektive K-lineare Abbildung ϕ : U → V nennt man ==Isomorphismus==. Die Umkehrabbildung ϕ−1 ist ebenfalls wieder **linear**
+	- Die Verkettung von Isomorphismen ist wieder ein Isomorphismus
+	-

@@ -1,0 +1,11 @@
+- ![linalg.pdf](../assets/linalg_1729176664262_0.pdf)
+- {{embed [[1. Grundbegriffe der Algebra]]}}
+- {{embed [[2. Konzepte der Linearen Algebra]]}}
+- [[3. Bilinearformen und Hermite'sche Formen]]
+- [[4. Determinanten]]
+- [[5. Eigenwerte und Eigenvektoren]]
+- [[6. Die Jordan'sche Normalform]]
+- [[7. Euklidische und unitäre Vektorräume]]
+-
+-
+-
