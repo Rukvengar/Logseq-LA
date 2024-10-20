@@ -9,8 +9,12 @@
 	- Der Kern einer linearen Abbildung ist ein Unterraum.
 	- Die Abbildung ϕ ist genau dann injektiv, wenn Ker (ϕ) = {0} gilt.
 	- Der Unterraum Ker(A) wird manchmal auch ==Nullraum== der Matrix A genannt
-	- **Deﬁnition:** Eine bijektive K-lineare Abbildung ϕ : U → V nennt man ==Isomorphismus==. Die Umkehrabbildung ϕ−1 ist ebenfalls wieder **linear**
+- **Deﬁnition:** Eine bijektive K-lineare Abbildung ϕ : U → V nennt man ==Isomorphismus==. Die Umkehrabbildung ϕ−1 ist ebenfalls wieder linear Die Verkettung von Isomorphismen ist wieder ein Isomorphismus
 - **Koordinaten:** Sei U ein endlich-dimensionaler K-Vektorraum und sei $B=\left(u_1,\ldots,u_{n}\right)$ eine geordnete Basis. Jeder Vektor v \in U lässt sich eindeutig als Linearkombination dieser ==Basisvektoren== schreiben:
+	- $v=\sum_{i=1}^{n}a_{i}u_{i}$ mit $a_{i}\in K$. Man nennt $K_{B}\left(v\right)=\begin{pmatrix}a_1\\ \ldots\\ a_{n}\end{pmatrix}$ den **Koordinatenvektor** von v bzgl. B
+	- $K_{B}$ ist ein Isomorphismus
+- **Matrixdarstellung:**
+	- [[draws/2024-10-20-08-51-09.excalidraw]]
 	-
 	-
 	-
