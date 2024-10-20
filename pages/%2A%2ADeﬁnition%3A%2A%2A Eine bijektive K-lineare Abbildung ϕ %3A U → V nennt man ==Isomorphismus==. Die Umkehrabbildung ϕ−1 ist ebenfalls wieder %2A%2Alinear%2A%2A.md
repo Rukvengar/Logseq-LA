@@ -1,0 +1,2 @@
+- Die Verkettung von Isomorphismen ist wieder ein Isomorphismus
+-
