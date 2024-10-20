@@ -15,6 +15,5 @@ alias:: K-Vektorraum, Vektorräume
 		- (ii) Für alle a, b ∈ K und v ∈ V gilt (ab)v = a(bv). Ist 1 das Einselement in K, dann gilt 1v = v für alle v ∈ V .
 		- (iii) Es gelten die Distributivgesetze(a + b)v = av + bv a(v + w) = av + aw für alle a, b ∈ K und v, w ∈ V .
 	- Das neutrale Element der Addition 0 heißt ==Nullvektor==.
-		- {{renderer excalidraw, excalidraw-2024-10-17-19-33-59}}
 - {{embed [[Vektorraum/Unterraum]]}}
 -
