@@ -1,19 +1,19 @@
 - ((67115cf8-6a2f-4e7b-951b-648150efd5d4))
-- **Deﬁnition:** Seien U und V zwei K-Vektorräume. Eine Abbildung ϕ : U → V nennt man ==K-linear==, wenn folgende Bedingungen erfüllt sind:
-	- (L1) ϕ(u1 + u2) = ϕ(u1) + ϕ(u2) für alle u1, u2 ∈ U
-	- (L2) ϕ(au) = aϕ(u) für alle a ∈ K und u ∈ U
-	- Beispiel
-	  collapsed:: true
-		- [[draws/2024-10-17-20-56-45.excalidraw]]
-- Der ==Kern== einer linearen Abbildung: Sei ϕ : U → V eine K-lineare Abbildung. Man nennt Ker(ϕ) = {u ∈ U | ϕ(u) = 0} den Kern von ϕ (engl.: kernel ).
-	- Der Kern einer linearen Abbildung ist ein Unterraum.
-	- Die Abbildung ϕ ist genau dann injektiv, wenn Ker (ϕ) = {0} gilt.
-	- Der Unterraum Ker(A) wird manchmal auch ==Nullraum== der Matrix A genannt
-- **Deﬁnition:** Eine bijektive K-lineare Abbildung ϕ : U → V nennt man ==Isomorphismus==. Die Umkehrabbildung ϕ−1 ist ebenfalls wieder linear Die Verkettung von Isomorphismen ist wieder ein Isomorphismus
+- **K-Linear**
+	- **Deﬁnition:** Seien U und V zwei K-Vektorräume. Eine Abbildung ϕ : U → V nennt man ==K-linear==, wenn folgende Bedingungen erfüllt sind:
+		- (L1) ϕ(u1 + u2) = ϕ(u1) + ϕ(u2) für alle u1, u2 ∈ U
+		- (L2) ϕ(au) = aϕ(u) für alle a ∈ K und u ∈ U
+		- Beispiel
+		  collapsed:: true
+			- [[draws/2024-10-17-20-56-45.excalidraw]]
+- {{embed [[Kern]]}}
+- {{embed [[Isomorphismus]]}}
 - **Koordinaten:** Sei U ein endlich-dimensionaler K-Vektorraum und sei $B=\left(u_1,\ldots,u_{n}\right)$ eine geordnete Basis. Jeder Vektor v \in U lässt sich eindeutig als Linearkombination dieser ==Basisvektoren== schreiben:
 	- $v=\sum_{i=1}^{n}a_{i}u_{i}$ mit $a_{i}\in K$. Man nennt $K_{B}\left(v\right)=\begin{pmatrix}a_1\\ \ldots\\ a_{n}\end{pmatrix}$ den **Koordinatenvektor** von v bzgl. B
 	- $K_{B}$ ist ein Isomorphismus
 - **Matrixdarstellung:**
 	- ![image.png](../assets/image_1729408000576_0.png)
--
+	- Die [[lineare Abbildung]] ist eindeutig durch die Bilder der Baisvektoren festgelegt
+- ![image.png](../assets/image_1729409759723_0.png)
+	- /
 -

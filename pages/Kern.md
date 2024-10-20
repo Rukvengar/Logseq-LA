@@ -1,0 +1,4 @@
+- Der ==Kern== einer linearen Abbildung: Sei ϕ : U → V eine K-lineare Abbildung. Man nennt Ker(ϕ) = {u ∈ U | ϕ(u) = 0} den Kern von ϕ (engl.: kernel ).
+	- Der Kern einer linearen Abbildung ist ein Unterraum.
+	- Die Abbildung ϕ ist genau dann injektiv, wenn Ker (ϕ) = {0} gilt.
+	- Der Unterraum Ker(A) wird manchmal auch ==Nullraum== der Matrix A genannt
