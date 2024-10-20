@@ -1,4 +1,5 @@
-- ((67114e9f-e5c3-49ca-872a-2d59a3de0143))
+pdf:: ((67114e9f-e5c3-49ca-872a-2d59a3de0143))
+
 - **Deﬁnition:** Sei V ein K- [[Vektorraum]]. Eine Teilmenge S ⊆ V heißt linear unabhängig, wenn jede endliche Teilmenge linear unabhängig ist. Das heißt: sind v1, . . . , vn ∈ S paarweise verschieden und erfüllen a1, . . . , an ∈ K die Gleichung $\sum_{i=1}^{n}v_{i}a = 0$ dann gilt ai = 0 für alle i.
 - Wie prüft man lineare Unabhängigkeit?
 	- $v_1.\ldots v_{k}$ linear unabhängig $\Longleftrightarrow Rg\left(A\right)=k$

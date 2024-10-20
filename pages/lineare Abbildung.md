@@ -8,12 +8,9 @@
 			- [[draws/2024-10-17-20-56-45.excalidraw]]
 - {{embed [[Kern]]}}
 - {{embed [[Isomorphismus]]}}
-- **Koordinaten:** Sei U ein endlich-dimensionaler K-Vektorraum und sei $B=\left(u_1,\ldots,u_{n}\right)$ eine geordnete Basis. Jeder Vektor v \in U lässt sich eindeutig als Linearkombination dieser ==Basisvektoren== schreiben:
-	- $v=\sum_{i=1}^{n}a_{i}u_{i}$ mit $a_{i}\in K$. Man nennt $K_{B}\left(v\right)=\begin{pmatrix}a_1\\ \ldots\\ a_{n}\end{pmatrix}$ den **Koordinatenvektor** von v bzgl. B
-	- $K_{B}$ ist ein Isomorphismus
+- {{embed [[Koordinaten]]}}
 - **Matrixdarstellung:**
 	- ![image.png](../assets/image_1729408000576_0.png)
-	- Die [[lineare Abbildung]] ist eindeutig durch die Bilder der Baisvektoren festgelegt
-- ![image.png](../assets/image_1729409759723_0.png)
-	- /
--
+	- Die [[Lineare Abbildung]] ist eindeutig durch die Bilder der Baisvektoren festgelegt
+- {{embed [[Lemma 2.2.25]]}}
+- {{embed [[Transformationsmatrizen]]}}
