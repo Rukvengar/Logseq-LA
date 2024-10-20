@@ -14,9 +14,6 @@
 	- $v=\sum_{i=1}^{n}a_{i}u_{i}$ mit $a_{i}\in K$. Man nennt $K_{B}\left(v\right)=\begin{pmatrix}a_1\\ \ldots\\ a_{n}\end{pmatrix}$ den **Koordinatenvektor** von v bzgl. B
 	- $K_{B}$ ist ein Isomorphismus
 - **Matrixdarstellung:**
-	- [[draws/2024-10-20-08-51-09.excalidraw]]
-	- ![New Document.pdf](../assets/New_Document_1729407876097_0.pdf)
-	-
-	-
-- ![image.png](../assets/image_1729407943930_0.png)
+	- ![image.png](../assets/image_1729408000576_0.png)
+-
 -
