@@ -11,6 +11,5 @@
 	- (a) Jede linear unabhängige Teilmenge S ⊆ V kann zu einer #Basis von V ergänzt werden.
 	- (b) Jedes Erzeugendensystem E ⊆ V enthält eine #Basis von V .
 - **Deﬁnition:** Sei V ein K- #Vektorraum . Die Kardinalität einer #Basis B nennt man die ==Dimension== von V ; dimK (V ) = |B|.
-- **Deﬁnition:** Sei V ein endlich-dimensionaler K-Vektorraum . Ein Tupel B = (v1, . . . , vn) heißt geordnete Basis, wenn die Einträge paarweise verschieden sind und die Menge{v1, . . . , vn} eine Basis von V ist.
-- ((671272fc-4e45-451d-9885-033d1867c399))
-- [[draws/2024-10-18-16-39-52.excalidraw]]
+- **Deﬁnition:** Sei V ein endlich-dimensionaler K-Vektorraum . Ein Tupel B = (v1, . . . , vn) heißt **geordnete Basis**, wenn die Einträge paarweise verschieden sind und die Menge{v1, . . . , vn} eine Basis von V ist.
+-
