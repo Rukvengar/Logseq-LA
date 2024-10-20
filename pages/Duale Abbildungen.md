@@ -17,4 +17,4 @@ tags:: lineare Abbildung, #Vektorraum
 - **Satz:**
 	- nummer:: 2.5.20
 	  pdf:: ((67154055-42e8-47d4-b065-0c41e4c8ce71))
-	-
+	- ![image.png](../assets/image_1729446365905_0.png)
