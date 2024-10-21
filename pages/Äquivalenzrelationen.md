@@ -17,4 +17,3 @@ alias:: Äquivalenzrelation
 	  pdf:: ((6715441a-8039-496e-a674-33b703b97604))
 	- ![image.png](../assets/image_1729447108848_0.png)
 - {{embed [[Äquivalente Matrizen]]}}
--
