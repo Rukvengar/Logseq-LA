@@ -1,4 +1,5 @@
 - ![linalg.pdf](../assets/linalg_1729176664262_0.pdf)
+- [[Einsendeaufgaben]]
 - {{embed [[1. Grundbegriffe der Algebra]]}}
 - {{embed [[2. Konzepte der Linearen Algebra]]}}
 - [[3. Bilinearformen und Hermite'sche Formen]]

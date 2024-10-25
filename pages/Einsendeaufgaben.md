@@ -1,0 +1,4 @@
+- ![Einsendeaufgaben-L1.pdf](../assets/Einsendeaufgaben-L1_1729570298467_0.pdf)
+- [Einsendeaufgaben-L2.pdf](../assets/Einsendeaufgaben-L2_1729570286961_0.pdf)
+-
+-
