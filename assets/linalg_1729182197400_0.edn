@@ -2188,5 +2188,22 @@
                                    :height 1683.78}),
                           :page 156},
                :content {:text "Korollar"},
+               :properties {:color "purple"}}
+              {:id #uuid "671e8e75-2803-49c9-957c-53b76afff95b",
+               :page 173,
+               :position {:bounding {:x1 174.796875,
+                                     :y1 164.265625,
+                                     :x2 428.1338806152344,
+                                     :y2 196.265625,
+                                     :width 992.1266666666666,
+                                     :height 1403.1499999999999},
+                          :rects ({:x1 174.796875,
+                                   :y1 164.265625,
+                                   :x2 428.1338806152344,
+                                   :y2 196.265625,
+                                   :width 992.1266666666666,
+                                   :height 1403.1499999999999}),
+                          :page 173},
+               :content {:text "3.1. Bilinearformen"},
                :properties {:color "purple"}}],
- :extra {:page 119}}
+ :extra {:page 173}}
