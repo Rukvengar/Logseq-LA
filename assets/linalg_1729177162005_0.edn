@@ -1106,4 +1106,4 @@
                           :page 46},
                :content {:text "Eine natürliche Zahl p > 1 heißt Primzahl, wenn für alle a ∈ N mit a | p entweder a = 1 oder a = p gilt."},
                :properties {:color "yellow"}}],
- :extra {:page 23}}
+ :extra {:page 73}}
