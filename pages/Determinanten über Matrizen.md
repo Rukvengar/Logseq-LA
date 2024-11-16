@@ -1,0 +1,4 @@
+- tags::Leipniz-Formel, Determinante, Ähnlichkeit, #Kern, invertierbar
+- ![image.png](../assets/image_1731609316731_0.png)
+- ![image.png](../assets/image_1731609455930_0.png)
+-
