@@ -299,7 +299,7 @@
  ;;  :charge-range    600}   ; Default value: 600
 
  ;; Favorites to list on the left sidebar
- :favorites ["4. Determinanten" "3. Bilinearformen und Hermite'sche Formen" "basis" "1. Grundbegriffe der Algebra" "2. Konzepte der Linearen Algebra" "Lineare Algebra"]
+ :favorites ["4. Determinanten" "3. Bilinearformen und Hermite'sche Formen" "1. Grundbegriffe der Algebra" "2. Konzepte der Linearen Algebra" "Lineare Algebra"]
 
  ;; Set flashcards interval.
  ;; Expected value:
