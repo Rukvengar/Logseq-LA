@@ -1,3 +1,3 @@
 - ![image.png](../assets/image_1732124477679_0.png)
-- ![image.png](../assets/image_1732124494427_0.png)
+- ![image.png](../assets/image_1732124494427_0.png){:height 1110, :width 712}
 - ![image.png](../assets/image_1732124520388_0.png)
